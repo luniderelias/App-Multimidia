@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Lunider\\Desktop\\ArmazenamentoArquivos\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v12\\values-v12.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lunider\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.1.aar\\eacdc4f035ed33388275763430873ff7\\res\\values-v12\\values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\claudio.alves\\Downloads\\Piezas En Revision BORRAR\\ANDROID\\PROJETO FINAL ULTIMO\\ProjetoFinal_AnimacoeseMultimidia\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v12\\values-v12.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\claudio.alves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.1.aar\\929948ea797ee2aa8ef770c5df9778c4\\res\\values-v12\\values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        }
+    ]
+}

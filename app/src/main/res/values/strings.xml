@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Media Cloud</string>
+    <string name="mail">media.cloud@nextu.com</string>
+
+    <string name="navigation_drawer_open">Abrir Menu de Navegação</string>
+    <string name="navigation_drawer_close">Fechar Menu de Navegação</string>
+
+    <string name="animations">Animações</string>
+    <string name="graphics">Gráficos</string>
+    <string name="images">Imagens</string>
+    <string name="audios">Áudios</string>
+    <string name="videos">Vídeos</string>
+
+    <string name="open">Abrir</string>
+    <string name="path">"Caminho</string>
+    <string name="capture">Capturar</string>
+
+    <string name="stop">Parar</string>
+    <string name="select_file">Selecione um arquivo</string>
+    <string name="no_file_selected">Nenhum arquivo selecionado</string>
+
+    <string name="start_playing">Reproduzir</string>
+    <string name="stop_playing">Parar Reprodução</string>
+    <string name="start_recording">Iniciar Gravação</string>
+    <string name="stop_recording">Parar Gravação</string>
+
+    <string name="play_error">Erro na reprodução</string>
+    <string name="save_error">Erro ao salvar</string>
+    <string name="record_error">Erro ao gravar</string>
+    <string name="load_error">Erro ao carregar</string>
+</resources>
